@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/Havneoen.jpg",
+    "title": "Havneoen Vejle",
+    "tags": ["Webdevelopment"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/Nicolinehus.webp",
+    "title": "Nicolinehus",
+    "tags": ["Webdevelopment"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/Remien.webp",
+    "title": "Remien",
+    "tags": ["Webdevelopment & Marketing"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/maze.png",
+    "title": "Maze Square",
+    "tags": ["Branding & Webdevelopment"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/Remmerslund.jpg",
+    "title": "See It Yourself",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/Grundehvidbjerg.png",
+    "title": "Blast From The Past",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["brand"]
+  }
+]
