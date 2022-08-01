@@ -29,8 +29,8 @@ const BlcSec = () => {
             <div className="full-width">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                We do everything to make the process easy and straightforward - that's why we help with the task from A-Z, so you can focus on your core business.
-                Diverse in styles and verticals, our websites reflect each brands' disctinct personality.
+                We do everything to make the process easy and straightforward - that&apos;s why we help with the task from A-Z, so you can focus on your core business.
+                Diverse in styles and verticals, our websites reflect each brands&apos; disctinct personality.
                 </p>
               </Split>
                 

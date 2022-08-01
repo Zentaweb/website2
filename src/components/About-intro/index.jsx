@@ -19,7 +19,7 @@ const AboutIntro = () => {
                 <p className="wow txt words chars splitting" data-splitting>
                 We create growth for the real estate industry through web development and online marketing.
                 We provide your business with tailored digital solutions which includes listing websites for any type of property. 
-                Our solutions grow and boost your business' digital presence by increasing user engagement and leads through the website.
+                Our solutions grow and boost your business&apos; digital presence by increasing user engagement and leads through the website.
 
                 We work together to design, create and produce digital solutions that we are proud of, for companies whose desire is a professional online presence.
 

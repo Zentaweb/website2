@@ -62,7 +62,7 @@ const Works3Dark = () => {
                 <div className="parlx">
                   <h2 className="custom-font">Web development and marketing is our passion</h2>
                   <p>
-                    Take a look at our portfolio and see what projects we have worked with. Diverse in styles and verticals, our websites reflect each brands' disctinct personality.
+                    Take a look at our portfolio and see what projects we have worked with. Diverse in styles and verticals, our websites reflect each brands&apos;	 disctinct personality.
                   </p>
                 </div>
 
