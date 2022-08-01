@@ -1,10 +1,10 @@
 {
   "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
   "/404": "pages/404.html",
   "/about": "pages/about.html",
   "/blog-details/blog-details-dark": "pages/blog-details/blog-details-dark.html",
-  "/_document": "pages/_document.js",
   "/blog-details/blog-details-light": "pages/blog-details/blog-details-light.html",
   "/blog/blog-dark": "pages/blog/blog-dark.html",
   "/blog/blog-light": "pages/blog/blog-light.html",
